@@ -13,5 +13,4 @@ cd wikijs
 docker-compose up -d 
 ```
 
- 
-
+ Puerto: (ip):8065
